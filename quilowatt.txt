@@ -1,0 +1,18 @@
+const primeiroValor = 0.05
+const segundoValor = 280
+
+const reultado = (primeiroValor * segundoValor) 
+
+console.log(primeroValor , segundoValor)
+alert(`o valor fica: ${reultado}`)
+
+
+
+
+const primeiroValor = 0.05
+const segundoValor = 280
+
+const reultado = (primeiroValor * segundoValor) * 0.85
+
+console.log(primeroValor , segundoValor)
+alert(`o valor fica: ${reultado}`)
