@@ -1,0 +1,24 @@
+ let ("insira uma cor");
+let simbolo = prompt("insira um simbolo")
+
+if (cor === "vermelho" && simbulo === "x") {
+
+    console.log("cave um buraco no chão");
+
+}
+else if (cor === "azul" && simbolo === "$"){
+
+    console.log("siga em frente");
+
+}
+let
+else if (cor === "verde" && simbolo === "*"){
+
+    console.log("suba em uma árvore");
+
+}
+
+else if (cor === "amarelo" && simbolo === "#"){
+
+    console.log("descanse");
+}
