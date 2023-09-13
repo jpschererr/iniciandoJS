@@ -1,0 +1,11 @@
+
+let a = parseFloat(prompt("Insira sua idade"))
+if (a >= 18) {
+
+    console.log("É maior de idade");
+
+} else {
+
+    console.log("É menor de idade");
+
+}
