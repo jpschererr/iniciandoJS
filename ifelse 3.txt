@@ -1,0 +1,14 @@
+
+let a = parseFloat(prompt("Insira uma senha de 4 dígitos"))
+let b = 1235
+if (a === 1235) {
+
+    console.log("Login bem-sucedido");
+
+}
+
+else if(a !== 1235) {
+
+    console.log("Senha incorreta");
+
+}

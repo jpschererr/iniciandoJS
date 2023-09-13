@@ -1,0 +1,26 @@
+let a = parseFloat(prompt("Insira um número"))
+let b = parseFloat(prompt("Insira outro número"))
+let c = prompt("Insira uma operação")
+if (c === "+") {
+
+   console.log(a + b);
+
+}
+
+else if (c === "-") {
+
+   console.log(a - b);
+
+}
+
+else if (c === "*") {
+
+    console.log(a * b);
+
+}
+
+else if (c === "/") {
+
+    console.log(a / b);
+
+}

@@ -1,0 +1,18 @@
+let a = parseFloat(prompt("Insira um número"))
+if (a > 1) {
+
+    console.log("É positivo");   
+
+}
+
+else if (a <= -1) {
+
+    console.log("É negativo");
+
+} else if(a === 0){
+
+    console.log("É igual a zero");
+
+} else {
+    console.log("Valor inválido");
+}
